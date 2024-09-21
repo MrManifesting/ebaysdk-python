@@ -1,25 +1,42 @@
 name: ebay_api_config
 
-# Trading API Sandbox - https://www.x.com/developers/ebay/products/trading-api
+# Trading API Sandbox - https://developer.ebay.com/tools
 api.sandbox.ebay.com:
-    compatability: 719
-    appid: ENTER_YOUR_APPID_HERE
-    certid: ENTER_YOUR_CERTID_HERE
-    devid: ENTER_YOUR_DEVID_HERE
-    token: ENTER_YOUR_TOKEN_HERE
+    compatibility: 719
+    appid: NICHOLAS-ListerGP-SBX-3d36044e8-aebe4176
+    certid: SBX-e544631ab534-7704-4c4e-9654-f7d8
+    devid: 8c8073e7-4986-4a76-a67a-a4aa7efbd427
+    token: ${v^1.1#i^1#f^0#p^3#r^0#I^3#t^H4sIAAAAAAAAAOVZf2wbVx2Pk/R3uzFgMAp/eLcxfqRnv/OdffY19uQmTuPOTtLY/RUVhed77+xrzneXe++SuKMiBOgmYBIDraggaJEooAk0JqgAQYU2oTKg20SRhtohxIRoJioEQoNtiCHe2anrhP6I7Um1wP9Y79331+f76/0C82s3fPDo8NFXt/jWdZ+cB/PdPp+wCWxYu6bvtp7urWu6QAOB7+T8vfO9Cz0v9xNYNmxlHBPbMgn2z5UNkyjVyTjnOqZiQaITxYRlTBSqKrlkNqOEAkCxHYtaqmVw/vRgnMMQSVgAghzDURQpqGzWvCIzb8U5JEsAqdGwIMoiECXEvhPi4rRJKDRpnAuBkMSDGB8S8oKgiDElBAIiiExw/r3YIbplMpIA4BJVc5Uqr9Ng641NhYRghzIhXCKdHMqNJtODqZF8f7BBVmLJDzkKqUuWjwYshP17oeHiG6shVWol56oqJoQLJmoalgtVkleMacH8mqs1WYQwhmRNisTCGnhTXDlkOWVIb2yHN6MjXquSKtikOq3czKPMG4VDWKVLoxEmIj3o9/52u9DQNR07cS61I3lgTy41zvlzY2OONaMjjDykgiiJMQGEI1yCYsJciJ3JMlNu6hobLmmriVzy9Qp1A5aJdM9zxD9i0R2YmY5XOijU4CBGNGqOOkmNemY10ol1R4IJL7K1ULq0ZHrBxWXmDX91ePMwXMmLq5nwZmWGFpNULIGwJmNNYvnRmBlerbeaHQkvQMmxsaBnCy7ACl+GzhSmtgFVzKvMvW4ZOzpSxLAWEqMa5lEkpvFSTNP4QhhFeEHDGGBcKKix6P9dklDq6AWX4nqirPxQRRrncqpl4zHL0NUKt5Kk2n2W0mKOxLkSpbYSDM7OzgZmxYDlFIMhAITg/mwmp5ZwGXJ1Wv3mxLxezVkVMy6iK7RiM2vmWP4x5WaRS4gOGoMOrexwK2ycw4bB/q7k8DILEytnrwN1wNCZH/JMUWchHbYIxagtaAjP6Cqe1NEtRObV+jXQ8UJbyAyrqJtZTEvWrcR2DVypbDKdaQsa66GQdhaohr4CpKX+AyJRHsgKAG2BTdp2ulx2KSwYON1hoZQEIdYmPNt1b2nxXQPVdLHIeuZ0mRK3LWje0qvoUFOoNYXNWvus7+E7BOt4amg8lRuezI8+kBppC+041hxMSnkPa6flaXJ3MpVkv2zSPFAxw3Y2hIK7M3ja1Iqjc5l8yp0YCu7bOTE0XQJCAbnZOfWQDjNh1HdA2mWSyFRaHRZywVwpNRuPt+WkHFYd3GGtC1kPIGk6SUSQGZ+dsW1VU2GonJxA41OOSiIldFgcnUvvKsp0d3vg81fLoJPwO7XEnaxW6SQbtQUyVaz3M6/WOwWkIEVAWAohIRYCUJXFMAiz5UnDGvuhsBZue4nqsIofSQ8Mj2aSOT6jsz2is3OMz+3Yz4tIjABJwlEe4gKWBDnS5tr1v7p0Ee9w01nQPH7CBEBbD3gra0C1ykELskO8NzVZtdi/GqJgwa0w/Qg7AQdDZJlGZfV8RZedUmvcy5i8Wr8uI2FnsEDtDM6gNKl1OXMTPLo5w05tllNpRWGduQkeqKqWa9JW1C2xNsGhuYamG4Z3QG9FYQN7M2aa0KhQXSWtx7B6CcPcS/RiiTYrh82VscP4VUghO+C1kMCkZNm2l4UqdFYJvVovmsbqBbpq9cKrOWN1VLt8bBVsnZ91Cd1oW4pdskzcjhSv1quSIEJs59ByEOsWeTeFbQupXWe3VAu66fVd0gSLDSvVykM6sb1Vo4nGQnE5gByoNVN3HlMT5A5mRsHVZ+oKplZDYVpU13S1JoO4BaI6ut1CvVxXTivBJayJNxXaGkNdVXsXNRjpDlbppOvonbWbyGNYnswu3TpPZvgV+0WeHJ52Z4r9QVbrG9twgOfgTryDG0vmcvtGxwfbiu4gnum0bX9UjQJZxDIvxaIRXoJyhIcRGfJQglDGWgFJIbktzB138SjIoUhMiMrhVeNaMdHwzvFf71zB5a/Nia7qT1jw/QIs+M52+3xgEPBCH/jA2p49vT2bOcIadYBAExWsuYAOtQDb5ZhsWXJwYApXbKg73W/r+uV017b5jcPB73zq4EJf/lCla33Do/fJD4G76s/eG3qETQ1v4OA9V7+sEW5/55aQBGIhQRBEdqidAPdc/dorvKP37Z84sk59X4iePfPr/oef25Xrf4rLbQNb6kQ+35qu3gVfV/rYhbln1h/64vzd+weyZx5/SD544pXPXnpqvfG19wp/fmTPvp9fOP2guetjX3n97u/99Mj57//k94svXRb77nj91bd8+rajw3vzPaPoUlfg4NyZn/3rIfEPiwfu/+ODqRfp9u4nst/8yO82/C35wz+9GH/j8vlt+za/a+ez2x//7g8ee237xMjhmSf2vsA9c/99X4DP9rxwx9a3HpuwAx9/+t2PRe468tf7Dl/8zWfuffToqXMbjz/yeRS6vO6j555/Uh3zbTrxz8+d2n/230rgwvHN799qCKFzXz61viB+uLjlW4vb/3Ln+S+9/MrGxYt/P37inn98/Rv+S8/PKqcvnj7+1R8lnu77FX5NFtzz6/zHfvzJoUX/b98ovfTkneTbz9Vi+h+ynkjrjiAAAA==}
 
-# Trading API - https://www.x.com/developers/ebay/products/trading-api
+# Trading API Production - https://developer.ebay.com/tools
 api.ebay.com:
-    compatability: 719
-    appid: ENTER_YOUR_APPID_HERE
-    certid: ENTER_YOUR_CERTID_HERE
-    devid: ENTER_YOUR_DEVID_HERE
-    token: ENTER_YOUR_TOKEN_HERE
+    compatibility: 719
+    appid: NICHOLAS-ListerGP-PRD-eac65bf93-b36adf11
+    certid: PRD-ac65bf9320f6-d3b2-4125-acaf-23cd
+    devid: 8c8073e7-4986-4a76-a67a-a4aa7efbd427
+    token: ${v^1.1#i^1#p^3#I^3#f^0#r^0#t^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}
 
-# Finding API - https://www.x.com/developers/ebay/products/finding-api
+# Finding API - https://developer.ebay.com/Devzone/finding/Concepts/FindingAPIGuide.html
 svcs.ebay.com:
-    appid: ENTER_YOUR_APPID_HERE
+    appid: ${EBAY_FINDING_API_APPID}
+    endpoint: https://svcs.ebay.com/services/search/FindingService/v1
+    headers:
+        X-EBAY-SOA-SECURITY-APPNAME: "${EBAY_FINDING_API_APPID}"
+        X-EBAY-SOA-OPERATION-NAME: "findItemsAdvanced"
 
-# Shopping API - https://www.x.com/developers/ebay/products/shopping-api
+# Shopping API - https://developer.ebay.com/Devzone/shopping/docs/CallRef/index.html
 open.api.ebay.com:
-    appid: ENTER_YOUR_APPID_HERE
+    appid: ${EBAY_SHOPPING_API_APPID}
+    endpoint: https://open.api.ebay.com/shopping
+    headers:
+        X-EBAY-API-IAF-TOKEN: "Bearer ${EBAY_IAF_TOKEN}"
+        X-EBAY-API-SITE-ID: "0"
+        X-EBAY-API-CALL-NAME: "GetUserProfile"
+        X-EBAY-API-VERSION: "863"
+        X-EBAY-API-REQUEST-ENCODING: "XML"
+
+        userId": "kl95goxkrwg",
+        username": "whatevers_10",
+        accountType": "INDIVIDUAL",
+        registrationMarketplaceId": "EBAY_US"
+}

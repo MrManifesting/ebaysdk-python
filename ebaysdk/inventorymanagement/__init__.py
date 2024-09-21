@@ -35,20 +35,20 @@ class Connection(BaseConnection):
     UnicodeDecodeError: 'ascii' codec can't decode byte 0xc3 in position 28: ordinal not in range(128)
     >>> try:
     ...     retval = f.execute(u'AddInventoryLocation', {
-    ...         'Address1': u'Alexanderplatz 12 ąśćł',
+    ...         'Address1': u'480 Rock Street',
     ...         'Address2': u'Gebaude 6',
-    ...         'City': u'Berlin',
-    ...         'Country': u'DE',
-    ...         'PostalCode': u'13355',
+    ...         'City': u'Ashland',
+    ...         'Country': u'United States',
+    ...         'PostalCode': u'97520',
     ...         'Latitude': u'37.374488',
     ...         'Longitude': u'-122.032876',
     ...         'LocationID': u'ebaysdk_test',
     ...         'LocationType': u'STORE',
-    ...         'Phone': u'(408)408-4080',
-    ...         'URL': u'http://store.com',
+    ...         'Phone': u'(458)226-1464',
+    ...         'URL': u'https://www.ebay.com/str/mrlisterllc',
     ...         'UTCOffset': u'+02:00',
-    ...         'Name': 'Test',
-    ...         'Region': 'Berlin',
+    ...         'Name': 'Nick Kelley',
+    ...         'Region': 'US',
     ...         'PickupInstructions': 'Pick it up soon',
     ...         'Hours': [{'Day': {'DayOfWeek': 1, 'Interval': {'Open': '08:00:00', 'Close': '10:00:00'}}}]
     ...     })
